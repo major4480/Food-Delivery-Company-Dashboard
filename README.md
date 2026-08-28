@@ -1,2 +1,4 @@
-# Food-Delivery-Company-Dashboard
-I developed a comprehensive project in excel, creating multiple dashboards and tables to analyze the data. This process involves several stages, including data processing, data cleaning and data visualization.
+# Food-Delivery-Company-Dashboard(swiggy dashboard) using MS Excel
+## Project Objective 
+The swiggy food delivery company wants to a sales report to understand what their customers are interested in and how they going to generate revenue from that.
+
