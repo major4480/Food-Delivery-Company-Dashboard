@@ -1,6 +1,7 @@
-# Food-Delivery-Company-Dashboard(swiggy dashboard) using MS Excel
-## Project Objective 
-The swiggy food delivery company wants to a sales report to understand what their customers are interested in and how they going to generate revenue from that.
+# Food-Delivery-Company-Dashboard (Swiggy Dashboard) using MS Excel
+
+## Project Objective
+Swiggy, the food delivery company, wants a sales report to understand what their customers are interested in and how they can generate revenue from that.
 
 ## KPIs
 - **Total Sales** — the overall revenue generated from food orders.
@@ -21,5 +22,3 @@ I used Pivot Tables 📊 to draw the dashboards:
 
 ## Dashboard
 <img width="771" height="446" alt="Screenshot" src="https://github.com/user-attachments/assets/0eeaee4d-74b0-4ab3-8d28-99de60b9d1ec" />
-
-
